@@ -1,0 +1,12 @@
+H:\project\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.exe.config
+H:\project\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.exe
+H:\project\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.pdb
+H:\project\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.exe
+H:\project\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.pdb
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.exe.config
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\bin\Debug\BankAbstractClasses.pdb
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankAbstractClasses\BankAbstractClasses\obj\Debug\BankAbstractClasses.pdb
